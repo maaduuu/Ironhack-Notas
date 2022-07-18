@@ -21,3 +21,6 @@
 
 > git push origin "Name of branch"
 > **Este comando sirve para empujar los cambios a directos a github**
+
+
+
