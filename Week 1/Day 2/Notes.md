@@ -10,6 +10,7 @@
 
 > Understandability
 
-**· Texts have to be readable and easily understandable.** 
-**· Websites need to operate in a predictable manner.**
-**· Input fields have to offer assistance to users.** 
+**Some important guidelines here are the following:**
+*Texts have to be readable and easily understandable.
+*Websites need to operate in a predictable manner.
+*Input fields have to offer assistance to users.
