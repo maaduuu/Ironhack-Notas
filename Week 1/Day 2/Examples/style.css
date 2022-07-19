@@ -1,0 +1,19 @@
+
+
+#container {
+    background-color: red;
+}
+
+.info{
+    padding: 2rem;
+}
+
+.titulo{
+    font-size: 4rem;
+}
+
+.p {
+    font-size: 1rem;
+    text-align: right;
+    justify-content: sp;
+}
