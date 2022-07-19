@@ -14,3 +14,28 @@
 * Texts have to be readable and easily understandable.
 * Websites need to operate in a predictable manner.
 * Input fields have to offer assistance to users.
+
+### CSS Tips
+
+
+> Inline Style
+
+**Se añade el estilo a la misma linea de codigo de html (no recomendado por el desorden que puede causar)**
+
+> In Document 
+
+**Se sigue añadiendo el codigo en el html pero en vez de en la linea de codigo se crea un TAG de <style>**
+
+> In a different document
+
+**Es la forma adecuada de estilizar nuestra pagina web, de esta manera creamos un archivo nuevo en el cual añadiremos el codigo para estilizar el html (el archivo sera .css)**
+
+**Para utilizar este archivo necesitaremos linkearlo con nuestro html, esto lo haremos de la siguiente manera**
+
+* <head>
+  ...
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
+
