@@ -32,10 +32,7 @@
 
 **Para utilizar este archivo necesitaremos linkearlo con nuestro html, esto lo haremos de la siguiente manera**
 
-**<head>
-  ...
-  <link rel="stylesheet" href="style.css">
-</head>**
+**<head link rel="stylesheet" href="style.css" head>**
 
 
 
