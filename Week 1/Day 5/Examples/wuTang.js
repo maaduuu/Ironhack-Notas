@@ -1,34 +1,34 @@
 const wuTangMembers = prompt("Who is your favorit member of Wu im going to say where is he/she from!");
 let loc = " ";
-switch (wuTangMembers){
-    case "Rza":
+switch (wuTangMembers.toLowerCase()){
+    case "rza":
     loc = "Staten Island, New York";
     break;
-    case "Inspectah Deck":
+    case "inspectah deck":
     loc = "Brooklyn, New York";
     break;
-    case "Method Man":
+    case "method man":
     loc = "Hempstead, New York";
     break;
-    case  "Cappadonna":
+    case  "cappadonna":
     loc = "Staten Island, New York";
     break;
-    case "U-God":
+    case "u-god":
     loc = "New York, New York";
     break;
-    case "GZA":
+    case "gza":
     loc = "New York, New York";
     break;
-    case "Ghostface Killah":
+    case "ghostface killah":
     loc = "Staten Island, New York"
     break;
-    case "Masta Killa":
+    case "masta killa":
     loc = "Brooklyn, New York";
     break;
-    case "Raekwon":
+    case "raekwon":
     loc = "Staten Island, New York";
     break;
-    case "Ol' Dirty Bastard":
+    case "ol' dirty bastard":
     loc = "is dead;"
     break;
     default:
