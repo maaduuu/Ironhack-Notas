@@ -1,4 +1,4 @@
-# examples
+# example-1
 
 ## Project setup
 ```
